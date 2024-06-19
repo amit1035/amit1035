@@ -2,6 +2,8 @@ Hi there 👋 I'm Amit Gupta
 A Full Stack Web Developer.
 
 🔭 I’m currently working on full-stack web applications using React and Node.js.
+
+
 🌱 I’m currently learning TypeScript, GraphQL, and advanced React patterns to enhance my development skills.
 👨‍💻 All of my projects are available at https://github.com/amit1035.
 👯 I’m looking to collaborate on open-source projects, hackathons, and innovative web applications that solve real-world problems.
