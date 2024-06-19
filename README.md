@@ -1,6 +1,6 @@
-                                                       Hi there 👋 
+ Hi there 👋 
 
-                                                      I'm Amit Gupta
+I'm Amit Gupta
 
 A Full Stack Web Developer.
 
