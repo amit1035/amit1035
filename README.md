@@ -16,4 +16,4 @@ A Full Stack Web Developer.
 
 📫 How to reach me: amitguptak20@gmail.com
 
-⚡ Fun fact: I have a passion for solving puzzles and enjoy honing my problem-solving skills with algorithmic challenges
+⚡ Fun fact I have a passion for solving puzzles and enjoy honing my problem-solving skills with algorithmic challenges
