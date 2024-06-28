@@ -17,3 +17,9 @@ A Full Stack Web Developer.
 📫 How to reach me: amitguptak20@gmail.com
 
 ⚡ Fun fact I have a passion for solving puzzles and enjoy honing my problem-solving skills with algorithmic challenges
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arju-kumar-937780227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arju-kumar-937780227/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/arju_7_jha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arju_7_jha/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/arjuk217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/arjuk217/" height="30" width="40" /></a>
+</p>
