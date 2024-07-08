@@ -9,7 +9,7 @@ A Full Stack Web Developer.
 
 🔭 I’m currently working on full-stack web applications using React and Node.js.
 
-🌱 I’m currently learning TypeScript, GraphQL, and advanced React patterns to enhance my development skills.
+🌱 I’m currently learning Figma to enhance my design skills.
 
 👨‍💻 All of my projects are available at https://github.com/amit1035.
 
