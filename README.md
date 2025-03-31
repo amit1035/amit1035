@@ -5,7 +5,7 @@
 
 I'm Amit Gupta
 
-A Full Stack Web Developer.
+A Full Stack Web Developer/ Android Developer.
 
 🔭 I’m currently working on full-stack web applications using React and Node.js.
 
