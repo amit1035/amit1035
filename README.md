@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGwya2JkZHpxeXhycDE2OTFpMzVqaGI0b3l5c3RpN3Z5cmJ4eTdoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+  <img width="500" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
+
 
 <h1 align="center">Hi, I'm Amit Gupta 👋</h1>
 
