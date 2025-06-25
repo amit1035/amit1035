@@ -1,7 +1,6 @@
 <p align="center">
   <img width="500" alt="Developer Setup" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 </p>
->
 
 
 
