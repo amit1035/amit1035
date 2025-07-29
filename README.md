@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding-gif" />
 </p>
 
-<h1 align="center">Hi, I'm Amit Gupta 👋</h1>
+<h1 align="center">Hi, I'm Amit Gupta 👨‍💻</h1>
 <h3 align="center">💻 Full Stack Developer | 📱 Android Dev | 🧠 DSA Enthusiast</h3>
 
 <p align="center">
@@ -13,7 +13,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amit1035&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=amit1035"><img src="https://visitor-badge.laobi.icu/badge?page_id=amit1035" alt="Visitors"></a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=amit1035">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=amit1035" alt="Visitors">
+  </a>
 </p>
 
 ---
@@ -31,20 +33,9 @@
 
 ### 🛠️ Tech Stack
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js)
-![Express](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
-
-**Database & Tools**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,kotlin,tailwind,firebase,git,postman" alt="Skill Icons" />
+</p>
 
 ---
 
@@ -58,7 +49,18 @@
 - Firebase auth  
 - Admin dashboard  
 - Product filtering, search, cart  
-🌐 [Live Demo](https://swiftcard.vercel.app) *(replace this link)*
+
+<p align="center">
+  <a href="https://swiftcard.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-SwiftCard-informational?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+<!-- Optional project screenshot/GIF -->
+<!-- <p align="center">
+  <img src="your-demo-gif-or-screenshot-url" width="80%" alt="SwiftCard Preview" />
+</p> -->
+
 </details>
 
 <details>
@@ -66,7 +68,10 @@
 
 🔐 Secure authentication (Kotlin + Firebase)  
 🎨 Smooth onboarding & custom UI  
-🌐 [Download Link Coming Soon]
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔜%20APK-Coming%20Soon-lightgrey?style=for-the-badge" />
+</p>
 </details>
 
 <details>
@@ -76,7 +81,13 @@
 - Parallax effects  
 - Smooth scroll & transitions  
 - Dark mode toggle  
-🌐 [Live Preview](https://amitportfoliowebsite.netlify.app/) 
+
+<p align="center">
+  <a href="https://amitportfoliowebsite.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Preview-Portfolio-green?style=for-the-badge&logo=react" />
+  </a>
+</p>
+
 </details>
 
 ---
@@ -90,6 +101,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amit1035&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amit1035&theme=radical&no-frame=true&row=1" />
 </p>
 
 ---
@@ -121,6 +136,12 @@
 
 ---
 
+### 💬 Quote I Live By
+
+> ⭐ *"Consistency is more important than perfection. Just keep shipping."*
+
+---
+
 ### 😄 Joke of the Day
 
 <p align="center">
@@ -129,8 +150,6 @@
 
 ---
 
-### 💬 Quote I Live By
+> 🧪 **Currently Exploring**: Figma, Framer Motion, GraphQL, Jetpack Compose  
+> 🌟 “Focus on **value**, not just code. Build what matters.”
 
-> ⭐ *"Consistency is more important than perfection. Just keep shipping."*
-
----
