@@ -1,20 +1,24 @@
+<!-- Profile Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding-gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF" />
 </p>
 
+<!-- Name and Tagline -->
 <h1 align="center">Hi, I'm Amit Gupta 👨‍💻</h1>
 <h3 align="center">💻 Full Stack Developer | 📱 Android Dev | 🧠 DSA Enthusiast</h3>
 
+<!-- Animated Typing Text -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=React+%7C+Node+%7C+MongoDB+%7C+Kotlin;Full+Stack+Web+%26+Mobile+Developer;Solving+Real+World+Problems;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
+<!-- Visitor Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amit1035&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
   <a href="https://visitor-badge.laobi.icu/badge?page_id=amit1035">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=amit1035" alt="Visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=amit1035" alt="Visitors" />
   </a>
 </p>
 
@@ -34,14 +38,14 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,kotlin,tailwind,firebase,git,postman" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,kotlin,tailwind,firebase,postman,git" alt="Tech Stack Icons" />
 </p>
 
 ---
 
-### 🔥 Projects I'm Working On
+### 💼 Featured Projects
 
-<details>
+<details open>
 <summary>🛒 <strong>SwiftCard – E-commerce Platform</strong></summary>
 
 🚀 MERN stack-based modern e-commerce website  
@@ -55,19 +59,13 @@
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-SwiftCard-informational?style=for-the-badge&logo=vercel" />
   </a>
 </p>
-
-<!-- Optional project screenshot/GIF -->
-<!-- <p align="center">
-  <img src="your-demo-gif-or-screenshot-url" width="80%" alt="SwiftCard Preview" />
-</p> -->
-
 </details>
 
 <details>
-<summary>📱 <strong>Android App with Firebase Login</strong></summary>
+<summary>📱 <strong>Android App – Firebase Auth</strong></summary>
 
-🔐 Secure authentication (Kotlin + Firebase)  
-🎨 Smooth onboarding & custom UI  
+🔐 Kotlin + Firebase Authentication  
+🎨 Smooth onboarding, custom UI  
 
 <p align="center">
   <img src="https://img.shields.io/badge/🔜%20APK-Coming%20Soon-lightgrey?style=for-the-badge" />
@@ -77,22 +75,19 @@
 <details>
 <summary>🌐 <strong>Portfolio Website v2.0</strong></summary>
 
-✨ Fully responsive React-based portfolio with:
-- Parallax effects  
-- Smooth scroll & transitions  
-- Dark mode toggle  
+✨ Fully responsive React portfolio  
+💡 Parallax, dark mode, transitions  
 
 <p align="center">
   <a href="https://amitportfoliowebsite.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Live%20Preview-Portfolio-green?style=for-the-badge&logo=react" />
   </a>
 </p>
-
 </details>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amit1035&show_icons=true&theme=tokyonight" height="180" />
@@ -138,7 +133,8 @@
 
 ### 💬 Quote I Live By
 
-> ⭐ *"Consistency is more important than perfection. Just keep shipping."*
+> ⭐ *"Consistency is more important than perfection. Just keep shipping."*  
+> 🌟 *"Focus on **value**, not just code. Build what matters."*
 
 ---
 
@@ -150,6 +146,20 @@
 
 ---
 
-> 🧪 **Currently Exploring**: Figma, Framer Motion, GraphQL, Jetpack Compose  
-> 🌟 “Focus on **value**, not just code. Build what matters.”
+### 🧪 Currently Exploring
 
+> 🎯 Figma, Framer Motion, GraphQL, Jetpack Compose  
+> ✨ Improving UI animations and design systems
+
+---
+
+<!-- Optional: Enable GitHub Discussions -->
+<!-- 
+### 💬 Join the Community
+
+<p align="center">
+  <a href="https://github.com/amit1035/your-repo/discussions">
+    <img src="https://img.shields.io/badge/💬%20Start%20a%20Discussion-blueviolet?style=for-the-badge" />
+  </a>
+</p>
+-->
