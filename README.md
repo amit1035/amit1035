@@ -74,52 +74,52 @@ Philosophy: "DSA improves logic. Projects improve vision. Consistency builds mas
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">⚡ AI Voice Assistant</h3>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/amit1035/Portfolio_Website/main/src/assets/img.png" width="100%" alt="AI Assistant" />
-      </p>
+    <td width="50%" align="center">
+      <h3>⚡ AI Voice Assistant</h3>
       <p>Voice-enabled AI assistant integrating Web Speech APIs to perform voice tasks, queries, and automated web routing.</p>
-      <p><b>Tech:</b> React.js, Web Speech API, JavaScript</p>
-      <p align="center">
+      <p>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </p>
+      <p>
         <a href="https://amit1035.github.io/ai-assistant">🌐 Live Demo</a> |
         <a href="https://github.com/amit1035/zia-ai-assistant">💻 Code Repository</a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🛒 SwiftCard E-Commerce</h3>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/amit1035/Portfolio_Website/main/src/assets/Ecommerce.png" width="100%" alt="SwiftCard" />
-      </p>
+    <td width="50%" align="center">
+      <h3>🛒 SwiftCard E-Commerce</h3>
       <p>Full-featured e-commerce platform with real-time cart calculation, Firebase user authentication, and product filters.</p>
-      <p><b>Tech:</b> React.js, Firebase Auth, Context API, Tailwind</p>
-      <p align="center">
+      <p>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+      </p>
+      <p>
         <a href="https://github.com/amit1035/Ecommerce_Website">🌐 Live Demo</a> |
         <a href="https://github.com/amit1035/Ecommerce_Website">💻 Code Repository</a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">💱 Currency Converter</h3>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/amit1035/Portfolio_Website/main/src/assets/currecny.png" width="100%" alt="Currency Converter" />
+    <td width="50%" align="center">
+      <h3>💱 Currency Converter</h3>
+      <p>Real-time exchange rate currency conversion tool with live Financial API integration and reciprocal currency features.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
       </p>
-      <p>Real-time exchange rate currency conversion tool with live Financial API integration & reciprocal currency features.</p>
-      <p><b>Tech:</b> React.js, Exchange Rate API, Tailwind CSS</p>
-      <p align="center">
+      <p>
         <a href="https://amit1035.github.io/Currency_Converter">🌐 Live Demo</a> |
         <a href="https://github.com/amit1035/Currency_Converter">💻 Code Repository</a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">📱 Flutter OTP Auth Mobile App</h3>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/amit1035/Portfolio_Website/main/src/assets/login.png" width="100%" alt="Flutter Auth" />
-      </p>
+    <td width="50%" align="center">
+      <h3>📱 Flutter OTP Auth Mobile App</h3>
       <p>Cross-platform mobile authentication application with Firebase SMS Phone OTP verification and onboarding UI.</p>
-      <p><b>Tech:</b> Flutter, Dart, Firebase Auth, Mobile</p>
-      <p align="center">
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+      </p>
+      <p>
         <a href="https://github.com/amit1035/flutter_mobile_auth">🌐 Live Demo</a> |
         <a href="https://github.com/amit1035/flutter_mobile_auth">💻 Code Repository</a>
       </p>
@@ -129,11 +129,13 @@ Philosophy: "DSA improves logic. Projects improve vision. Consistency builds mas
 
 ---
 
-### 📊 GitHub Analytics & Streak
+### 📊 GitHub Analytics and Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit1035&show_icons=true&theme=tokyonight&border_radius=12&ring_color=6366f1&icon_color=6366f1" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit1035&layout=compact&theme=tokyonight&border_radius=12&hide=html,css" height="175" alt="Top Languages" />
+  <a href="https://github.com/amit1035">
+    <img src="https://img.shields.io/github/stars/amit1035?label=Total%20Stars&style=for-the-badge&color=6366f1" />
+    <img src="https://img.shields.io/github/followers/amit1035?label=GitHub%20Followers&style=for-the-badge&color=a855f7" />
+  </a>
 </p>
 
 <p align="center">
@@ -150,7 +152,7 @@ Philosophy: "DSA improves logic. Projects improve vision. Consistency builds mas
 
 ---
 
-### 🔗 Connect & Coding Profiles
+### 🔗 Connect and Coding Profiles
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amit-gupta-87200a254/" target="_blank">
@@ -175,7 +177,7 @@ Philosophy: "DSA improves logic. Projects improve vision. Consistency builds mas
 ### 💡 Developer Motivation
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=090d16&textColor=ffffff&qColor=6366f1&aColor=38bdf8&borderColor=1e293b" alt="Dev Joke" />
+  <img src="https://readme-jokes.vercel.app/api?bgColor=090d16&textColor=ffffff&qColor=ffffff&aColor=ffffff&borderColor=6366f1" alt="Dev Joke" />
 </p>
 
 > ⭐ *"Consistency is more important than perfection. Just keep shipping."*
