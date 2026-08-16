@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Amit%20Gupta&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20%26%20Automation%20Test%20Engineer%20%7C%20Full%20Stack%20%26%20Mobile%20Developer&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Amit%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20%26%20Automation%20Test%20Engineer&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -24,7 +24,6 @@
 
 ### 🚀 About Me
 
-yaml
 Name: Amit Gupta
 Role: Software Engineer @ VAS Ventures Pvt. Ltd.
 Focus: Python Development & Automation Testing Frameworks
