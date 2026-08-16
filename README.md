@@ -176,9 +176,5 @@ Philosophy: "DSA improves logic. Projects improve vision. Consistency builds mas
 
 ### 💡 Developer Motivation
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=090d16&textColor=ffffff&qColor=ffffff&aColor=ffffff&borderColor=6366f1" alt="Dev Joke" />
-</p>
-
-> ⭐ *"Consistency is more important than perfection. Just keep shipping."*
+ ⭐ *"Consistency is more important than perfection. Just keep shipping."*
 ```
