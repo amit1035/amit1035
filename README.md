@@ -1,6 +1,3 @@
-Here is the complete **GitHub `README.md` code**. You can click the **Copy** button at the top-right of the code box below and paste it directly into your GitHub repository `README.md`:
-
-markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Amit%20Gupta&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20%26%20Automation%20Test%20Engineer%20%7C%20Full%20Stack%20%26%20Mobile%20Developer&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
 </p>
