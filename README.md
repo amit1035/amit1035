@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Amit%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20%26%20Automation%20Test%20Engineer&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Amit%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20and%20Automation%20Test%20Engineer&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineer+@+VAS+Ventures+Pvt.+Ltd.;Python+Development+%26+Automation+Testing;Full+Stack+React+%7C+Node+%7C+MongoDB+%7C+Kotlin;Building+Efficient+Test+Automation+Frameworks;DSA+%26+Problem+Solving+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineer+@+VAS+Ventures+Pvt.+Ltd.;Python+Development+and+Automation+Testing;Full+Stack+React+%7C+Node+%7C+MongoDB+%7C+Kotlin;Building+Efficient+Test+Automation+Frameworks;DSA+and+Problem+Solving+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
